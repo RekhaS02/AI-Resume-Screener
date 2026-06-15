@@ -9,7 +9,7 @@
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![Demo Screenshot](https://placehold.co/900x500/1a1f2e/ffffff?text=AI+Resume+Screener+Demo)
+![Demo Screenshot](Screenshot.png)
 
 </div>
 
