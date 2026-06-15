@@ -9,6 +9,8 @@
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-resume-screener-dnhfhtstcu3wr2wmm3ea3c.streamlit.app/)
+
 ![Demo Screenshot](Screenshot.png)
 
 </div>
