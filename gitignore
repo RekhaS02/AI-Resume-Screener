@@ -1,0 +1,6 @@
+# Never commit your API key to Git!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
